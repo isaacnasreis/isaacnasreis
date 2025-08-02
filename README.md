@@ -53,8 +53,8 @@ Tudo isso influencia como vejo o desenvolvimento: não apenas como uma tarefa t�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaac-dev&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-dev&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacnasreis&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnasreis&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
