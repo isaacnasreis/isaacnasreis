@@ -1,20 +1,21 @@
 <h1 align="center">👋 Olá, eu sou o Isaac</h1>
 
-<p align="center">
-  Full Stack Developer com foco em Front End e UX.<br>
-  Curioso por tudo que envolve criação — do código ao desenho.
-</p>
+<div align="center">
+  <p><strong>Desenvolvedor Full Stack apaixonado por transformar ideias em experiências digitais intuitivas e eficientes.</strong></p>
+  <p>Estou construindo a ponte entre o código robusto e o design centrado no usuário, com um foco especial em UX Engineering.</p>
+</div>
 
 ---
 
 ## 🧭 Sobre mim
 
 Sou desenvolvedor com interesse especial por interfaces, experiências e o desafio de **construir mundos com código**.
-
 Gosto de pensar no Front End como uma ponte entre lógica e narrativa. Código limpo, responsivo e acessível são tão importantes quanto um layout bonito — e eu tento equilibrar isso em cada projeto.
 
-Este repositório é mais um espaço pessoal do que um portfólio:  
-aqui guardo ideias, testes, projetos em andamento, aprendizados e experimentos.
+- 🔭 Atualmente estou trabalhando em projetos com **Vue.js** e **PHP**, e explorando o universo **React**.
+- 🌱 Aprofundando meus conhecimentos em **UX Engineering** na minha pós-graduação para criar produtos ainda mais incríveis.
+- 🤔 Tenho um interesse crescente em **Segurança da Informação (AppSec)**, aplicando uma mentalidade de segurança no meu desenvolvimento diário.
+- 🎨 Fato curioso: Minha jornada na tecnologia foi impulsionada por um background em **artes visuais**, o que me deu um olhar apurado para interfaces e design.
 
 ---
 
@@ -45,8 +46,11 @@ Tudo isso influencia como vejo o desenvolvimento: não apenas como uma tarefa t�
 
 ## 🌐 Vamos nos conectar?
 
-- [LinkedIn]([https://linkedin.com/in/isaac-dev](https://www.linkedin.com/in/isaacnreis/))
-- [Portfólio]([https://isaac.dev](https://isaacnreis.github.io/portfolio-n/))
+<p align="left">
+  <a href="https://www.linkedin.com/in/isaacnreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:isaacreisn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://isaacnreis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+</p>
 
 ---
 
