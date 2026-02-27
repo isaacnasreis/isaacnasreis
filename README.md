@@ -1,68 +1,64 @@
 <h1 align="center">👋 Olá, eu sou o Isaac</h1>
 
 <div align="center">
-  <p><strong>Desenvolvedor Full Stack apaixonado por transformar ideias em experiências digitais intuitivas e eficientes.</strong></p>
-  <p>Estou construindo a ponte entre o código robusto e o design centrado no usuário, com um foco especial em UX Engineering.</p>
+  <p><strong>Software Engineer | Full Stack Developer</strong></p>
+  <p>Desenvolvendo soluções completas do banco de dados à interface, unindo lógica robusta com design centrado no usuário.</p>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/UX-Engineering-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Clean%20Code-Focused-green?style=flat-square">
+</p>
 
 ---
 
 ## 🧭 Sobre mim
 
-Sou desenvolvedor com interesse especial por interfaces, experiências e o desafio de **construir mundos com código**.
-Gosto de pensar no Front End como uma ponte entre lógica e narrativa. Código limpo, responsivo e acessível são tão importantes quanto um layout bonito — e eu tento equilibrar isso em cada projeto.
+Sou um desenvolvedor focado em construir aplicações que funcionam tão bem quanto parecem. Minha atuação como **Full Stack** permite que eu transite entre a estruturação de dados no Back-end e o refinamento da experiência no Front-end, sempre priorizando código limpo e escalabilidade.
 
-- 🔭 Atualmente estou trabalhando em projetos com **Vue.js** e **PHP**, e explorando o universo **React**.
-- 🌱 Aprofundando meus conhecimentos em **UX Engineering** na minha pós-graduação para criar produtos ainda mais incríveis.
-- 🤔 Tenho um interesse crescente em **Segurança da Informação (AppSec)**, aplicando uma mentalidade de segurança no meu desenvolvimento diário.
-- 🎨 Fato curioso: Minha jornada na tecnologia foi impulsionada por um background em **artes visuais**, o que me deu um olhar apurado para interfaces e design.
-
----
-
-## 🛠️ Tecnologias que costumo usar
-
-- **Linguagens**: HTML, CSS, JavaScript, TypeScript, PHP  
-- **Frameworks/Bibliotecas**: React, Vue, React Native, Node.js  
-- **Ferramentas**: Git, Figma, Postman, VS Code  
-- **Banco de Dados**: MySQL
+- 🚀 **Foco Atual:** Desenvolvimento de sistemas web utilizando **Vue.js**, **PHP** e **Node.js**, com interesse crescente no ecossistema **React/Next.js**.
+- 🌱 **Evolução:** Pós-graduando em **UX Engineering** na PUC Minas, buscando aplicar princípios de usabilidade em cada linha de código.
+- 🎨 **Diferencial:** Meu background em artes visuais me dá um olhar apurado para interfaces, facilitando a ponte entre o design e a implementação técnica.
+- ⚙️ **Qualidade:** Desenvolvo com atenção especial à segurança básica (AppSec) e performance, garantindo produtos digitais confiáveis.
 
 ---
 
-## ✍️ O que você vai encontrar por aqui
+## 🛠️ Stack Técnica
 
-- Protótipos e testes de ideias
-- Pequenas soluções para problemas do dia a dia
-- Projetos pessoais com foco em Front e UX
-- Explorações que misturam código e criatividade
+### **Back-end & Infra**
+- **Linguagens:** PHP, Node.js (TypeScript)
+- **Bancos de Dados:** MySQL, PostgreSQL
+- **Ferramentas:** Git, REST APIs, Estruturas de Dados, Postman
+
+### **Front-end & Design**
+- **Frameworks/Libs:** Vue.js, React, Next.js, React Native
+- **Styling:** Tailwind CSS, SASS, Styled Components
+- **Design:** Figma (Prototipagem de Alta Fidelidade & Design Systems)
 
 ---
 
-## 🎨 Além do código
+## ✍️ O que você encontra por aqui
 
-Sou alguém que gosta de **arte, animação, livros e boas histórias**.  
-Tudo isso influencia como vejo o desenvolvimento: não apenas como uma tarefa técnica, mas como uma forma de **contar algo, de dar vida a uma ideia**.
+No meu GitHub, você verá meu progresso em:
+* **Aplicações Web End-to-End:** Dashboards, sistemas de gestão e SPAs completas.
+* **Integrações de API:** Consumo e desenvolvimento de serviços backend eficientes.
+* **Estudos de UX/UI:** Implementações focadas em acessibilidade e fidelidade visual.
 
 ---
 
 ## 🌐 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/isaacnreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isaacnreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:isaacreisn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://isaacnreis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+  <a href="https://isaacnreis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white"></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacnasreis&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnasreis&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer coding animation">
 </p>
 
----
-
 <p align="center">
-  <i>“Construir mundos com código.”</i>
+  <i>"Transformando lógica em experiência e código em solução."</i>
 </p>
