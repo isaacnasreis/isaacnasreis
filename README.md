@@ -2,58 +2,153 @@
 
 <div align="center">
   <p><strong>Software Engineer | Full Stack Developer</strong></p>
-  <p>Desenvolvendo soluções completas do banco de dados à interface, unindo lógica robusta com design centrado no usuário.</p>
+  <p>Construindo aplicações modernas com foco em experiência do usuário, arquitetura limpa e integração eficiente entre sistemas.</p>
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/UX-Engineering-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/React%20%7C%20Next.js-Focused-61DAFB?style=flat-square">
+  <img src="https://img.shields.io/badge/Node.js-Backend-3C873A?style=flat-square">
   <img src="https://img.shields.io/badge/Clean%20Code-Focused-green?style=flat-square">
 </p>
 
 ---
 
-## 🧭 Sobre mim
+# 🧭 Sobre mim
 
-Sou um desenvolvedor focado em construir aplicações que funcionam tão bem quanto parecem. Minha atuação como **Full Stack** permite que eu transite entre a estruturação de dados no Back-end e o refinamento da experiência no Front-end, sempre priorizando código limpo e escalabilidade.
+Sou um **desenvolvedor Full Stack** com experiência em construir aplicações completas — desde modelagem de dados e APIs até interfaces modernas e responsivas.
 
-- 🚀 **Foco Atual:** Desenvolvimento de sistemas web utilizando **Vue.js**, **PHP** e **Node.js**, com interesse crescente no ecossistema **React/Next.js**.
-- 🌱 **Evolução:** Pós-graduando em **UX Engineering** na PUC Minas, buscando aplicar princípios de usabilidade em cada linha de código.
-- 🎨 **Diferencial:** Meu background em artes visuais me dá um olhar apurado para interfaces, facilitando a ponte entre o design e a implementação técnica.
-- ⚙️ **Qualidade:** Desenvolvo com atenção especial à segurança básica (AppSec) e performance, garantindo produtos digitais confiáveis.
+Tenho foco especial no ecossistema **React / Next.js / Node.js**, mas também possuo experiência prática com **Vue.js e PHP**, além de grande interesse em evoluir dentro do ecossistema **Laravel**.
 
----
+Minha abordagem combina:
 
-## 🛠️ Stack Técnica
+- 🧠 **Lógica sólida**
+- 🎨 **Sensibilidade para interface**
+- ⚙️ **Arquitetura limpa e escalável**
 
-### **Back-end & Infra**
-- **Linguagens:** PHP, Node.js (TypeScript)
-- **Bancos de Dados:** MySQL, PostgreSQL
-- **Ferramentas:** Git, REST APIs, Estruturas de Dados, Postman
-
-### **Front-end & Design**
-- **Frameworks/Libs:** Vue.js, React, Next.js, React Native
-- **Styling:** Tailwind CSS, SASS, Styled Components
-- **Design:** Figma (Prototipagem de Alta Fidelidade & Design Systems)
+Também tenho um **background em artes visuais**, o que me ajuda a criar interfaces mais refinadas e a conectar melhor design e engenharia.
 
 ---
 
-## ✍️ O que você encontra por aqui
+# 🚀 Foco Atual
 
-No meu GitHub, você verá meu progresso em:
-* **Aplicações Web End-to-End:** Dashboards, sistemas de gestão e SPAs completas.
-* **Integrações de API:** Consumo e desenvolvimento de serviços backend eficientes.
-* **Estudos de UX/UI:** Implementações focadas em acessibilidade e fidelidade visual.
+Atualmente estou aprofundando conhecimentos em:
+
+- **React**
+- **Next.js**
+- **Node.js**
+- **TypeScript**
+- **Arquitetura de aplicações web modernas**
+- **Integração de APIs e microsserviços**
+
+Também tenho interesse crescente em trabalhar com:
+
+- **Laravel**
+- **Vue.js**
+- **Arquiteturas Full Stack modernas**
+- **UX Engineering**
 
 ---
 
-## 🌐 Vamos nos conectar?
+# 🛠️ Stack Técnica
+
+## 💻 Back-end
+
+- **Node.js**
+- **PHP**
+- **TypeScript**
+- **REST APIs**
+- **Integração de serviços**
+
+### Frameworks de interesse
+
+- **Laravel**
+- **Express**
+
+---
+
+## 🎨 Front-end
+
+- **React**
+- **Next.js**
+- **Vue.js**
+- **Nuxt.js**
+- **React Native**
+
+### Estilização
+
+- Tailwind CSS  
+- SASS  
+- Styled Components  
+
+---
+
+## 🗄️ Banco de Dados
+
+- MySQL
+- PostgreSQL
+
+---
+
+## ⚙️ Ferramentas
+
+- Git / GitHub
+- Postman
+- Docker
+- Figma
+- Estruturas de Dados
+
+---
+
+# ✍️ O que você encontra no meu GitHub
+
+Aqui você verá principalmente projetos relacionados a:
+
+- 🌐 **Aplicações Web Full Stack**
+- 🔗 **Integrações de APIs**
+- 📊 **Dashboards e sistemas de gestão**
+- 🎨 **Projetos experimentais com foco em UX/UI**
+- 🧪 **Estudos e evolução técnica**
+
+Também utilizo o GitHub como espaço para **experimentação e aprendizado contínuo**.
+
+---
+
+# 🌐 Links e redes
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/isaacnreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:isaacreisn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://isaacnreis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+
+<a href="https://isaacnreis.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/isaacnreis/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/isaacnasreis" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://x.com/IsaacNreis" target="_blank">
+<img src="https://img.shields.io/badge/X%20(Twitter)-000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.behance.net/isaacreis" target="_blank">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@isaacnreisdev" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="mailto:isaacreisn@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer coding animation">
