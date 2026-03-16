@@ -18,7 +18,7 @@
 
 Sou um **desenvolvedor Full Stack** com experiência em construir aplicações completas — desde modelagem de dados e APIs até interfaces modernas e responsivas.
 
-Tenho foco especial no ecossistema **React / Next.js / Node.js**, mas também possuo experiência prática com **Vue.js e PHP**, além de grande interesse em evoluir dentro do ecossistema **Laravel**.
+Tenho foco especial no ecossistema **React / Next.js / Node.js**, mas também possuo experiência prática com **Vue.js e PHP**.
 
 Minha abordagem combina:
 
