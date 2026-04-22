@@ -65,7 +65,7 @@ Também utilizo o GitHub como espaço para **experimentação e aprendizado cont
 
 <p align="left">
 
-<a href="https://isaacnreis.vercel.app/" target="_blank">
+<a href="[https://isaacnreis.vercel.app/](https://isaacnasreis.github.io/portfolio-js/)" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
