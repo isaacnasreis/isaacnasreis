@@ -18,8 +18,6 @@
 
 Sou um **desenvolvedor Full Stack** com experiência em construir aplicações completas — desde modelagem de dados e APIs até interfaces modernas e responsivas.
 
-Tenho foco especial no ecossistema **React / Next.js / Node.js**, mas também possuo experiência prática com **Vue.js e PHP**.
-
 Minha abordagem combina:
 
 - 🧠 **Lógica sólida**
@@ -27,66 +25,6 @@ Minha abordagem combina:
 - ⚙️ **Arquitetura limpa e escalável**
 
 Também tenho um **background em artes visuais**, o que me ajuda a criar interfaces mais refinadas e a conectar melhor design e engenharia.
-
----
-
-# 🚀 Foco Atual
-
-Atualmente estou aprofundando conhecimentos em:
-
-- **React**
-- **Next.js**
-- **Node.js**
-- **TypeScript**
-- **Arquitetura de aplicações web modernas**
-- **Integração de APIs e microsserviços**
-
-Também tenho interesse crescente em trabalhar com:
-
-- **Laravel**
-- **Vue.js**
-- **Arquiteturas Full Stack modernas**
-- **UX Engineering**
-
----
-
-# 🛠️ Stack Técnica
-
-## 💻 Back-end
-
-- **Node.js**
-- **PHP**
-- **TypeScript**
-- **REST APIs**
-- **Integração de serviços**
-
-### Frameworks de interesse
-
-- **Laravel**
-- **Express**
-
----
-
-## 🎨 Front-end
-
-- **React**
-- **Next.js**
-- **Vue.js**
-- **Nuxt.js**
-- **React Native**
-
-### Estilização
-
-- Tailwind CSS  
-- SASS  
-- Styled Components  
-
----
-
-## 🗄️ Banco de Dados
-
-- MySQL
-- PostgreSQL
 
 ---
 
@@ -111,6 +49,15 @@ Aqui você verá principalmente projetos relacionados a:
 - 🧪 **Estudos e evolução técnica**
 
 Também utilizo o GitHub como espaço para **experimentação e aprendizado contínuo**.
+
+---
+
+## 📊 Minhas Estatísticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacnasreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnasreis&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
